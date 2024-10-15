@@ -7,5 +7,5 @@ Version 1 - Old-School Raycasting Graphics using the work in progress Violet Ult
 
 ![screenshot](./screenshot.png)
 
-Offline version available on GitHub Pages: [https://enrique-za.github.io/uyv-raycasting/]
+Offline version available on GitHub Pages: https://enrique-za.github.io/uyv-raycasting/
 Use the w, a, s and d key to move around the scene.
