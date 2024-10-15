@@ -10,4 +10,4 @@ Version 2 adds textures
 
 Test in now on GitHub Pages: https://enrique-za.github.io/uyv-raycasting-v2/
 
-Use the w, a, s and d key to move around the scene.
+Use the w, a, s and d key to move around the scene. 
